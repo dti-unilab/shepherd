@@ -1,0 +1,9 @@
+/.metadata/
+/*.xlsx
+/*.csv
+/uploads/planilha/arquivo/*.csv
+/src/*.buildpath
+/src/*.project
+*.prefs
+.settings
+/*.xlsx#
